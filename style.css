@@ -121,16 +121,25 @@ p {
         text-align: center;
     }
 
+    .appTitle {
+        font-size: 35px;
+    }
+
+    .appDesc {
+        font-size: 25px;
+    }
+
     .app-button {
         display: flex;
+        justify-content: center;
     }
 
     .wave {
-        font-size: 28px;
+        font-size: 22px;
     }
 
     .name {
-        font-size: 35px;
+        font-size: 30px;
     }   
 
     .aboutTitle {
