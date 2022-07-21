@@ -102,7 +102,7 @@ p {
 }
 
 .buttonPosition {
-    text-align: center;
+    margin: 2px auto 0px auto;
 }
 
 .app-button {
