@@ -116,7 +116,8 @@ p {
     text-align: left;
 }
 
-.about-text {
+.aboutText {
+    background: none;
     text-align: center;
 }
 
