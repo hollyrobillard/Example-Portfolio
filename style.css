@@ -101,6 +101,10 @@ p {
     padding-top: 10px;
 }
 
+.buttonPosition {
+    text-align: center;
+}
+
 .app-button {
     background: var(--primary-color);
     box-shadow: var(--box-shadow);
