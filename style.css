@@ -93,6 +93,14 @@ p {
     text-decoration: underline;
 }
 
+.appTitle, .appDesc {
+    text-align: left;
+}
+
+.appTitle {
+    padding-top: 10px;
+}
+
 .app-button {
     background: var(--primary-color);
     box-shadow: var(--box-shadow);
@@ -106,10 +114,6 @@ p {
     background: none;
     padding: 0 0 0 2px;
     text-align: center;
-}
-
-.col-md-6 h2 {
-    padding-top: 10px;
 }
 
 .container {
