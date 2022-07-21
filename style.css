@@ -113,7 +113,7 @@ p {
 .app-text {
     background: none;
     padding: 0 0 0 2px;
-    text-align: center;
+    text-align: left;
 }
 
 .container {
@@ -139,6 +139,7 @@ p {
     .app-button {
         display: flex;
         align-items: center;
+        margin: 0 auto;
     }
 
     .wave {
