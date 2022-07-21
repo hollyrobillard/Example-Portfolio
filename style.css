@@ -51,6 +51,10 @@ p {
     text-transform: capitalize;
 }
 
+#contact {
+    padding: 10px;
+}
+
 .contact-link {
     background: var(--primary-color);
     box-shadow: var(--box-shadow);
@@ -118,11 +122,7 @@ p {
         display: none;
     }
  
-    .appTitle {
-        text-align: center;
-    }
-
-    .appDesc {
+    .col-md-6 {
         text-align: center;
     }
 
