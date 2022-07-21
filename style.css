@@ -116,6 +116,10 @@ p {
     text-align: left;
 }
 
+.about-text {
+    text-align: center;
+}
+
 .container {
     max-width: 800px;
     padding-bottom: 5px;
