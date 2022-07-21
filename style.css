@@ -121,17 +121,15 @@ p {
     .homepageImg {
         display: none;
     }
- 
-    .col-md-6 {
-        text-align: center;
-    }
 
     .appTitle {
         font-size: 35px;
+        text-align: center!important;
     }
 
     .appDesc {
         font-size: 25px;
+        text-align: center!important;
     }
 
     .app-button {
